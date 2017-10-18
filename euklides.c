@@ -2,7 +2,7 @@
 
 int main(){
 	int a, b;
-	printf ("Wpisz 2 liczby calkowite\n");
+	printf ("Wpisz 2 liczby calkowiiiite\n");
 	scanf ("%d", &a);
 	scanf ("%d", &b);
 	while(a!=b){
